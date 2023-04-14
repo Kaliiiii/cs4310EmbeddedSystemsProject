@@ -6,5 +6,5 @@
 * Humidity Sensor
 * Water Pump
 ## Tempature System
-*Tempature Sensor
-*Lights
+* Tempature Sensor
+* Lights
