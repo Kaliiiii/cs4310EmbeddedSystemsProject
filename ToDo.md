@@ -1,4 +1,4 @@
-# What we would like to implement into our project:
+# What we would like to implement into our project
 ## Light System
 * Light Sensor
 * Leds
